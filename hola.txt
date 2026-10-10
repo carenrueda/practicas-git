@@ -2,3 +2,4 @@ estoy practicando git
 este es mi segundo cambio
 estoy aprendiendo git diff HEAD
 prueba de cambios sin preparar
+cambio que guardare en un commit
