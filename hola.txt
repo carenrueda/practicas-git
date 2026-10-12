@@ -1,4 +1,1 @@
-estoy practicando git
-este es mi segundo cambio
-estoy aprendiendo git diff HEAD
-prueba de cambios sin preparar
+ejercicio de rama 
